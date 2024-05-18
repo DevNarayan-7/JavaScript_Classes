@@ -2,4 +2,9 @@
 // constant - const
 
 let email = "Alien123@gamil.com"
-let password = "112"
+const password = "112"
+
+password = "111"
+
+console.log(password);
+
