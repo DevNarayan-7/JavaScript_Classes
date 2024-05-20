@@ -13,8 +13,7 @@ console.log(typeof bankBalanceInInt2);
 
 
 let c = null
-
-
+let d;
 console.log(5 + undefined);
 console.log(NaN === NaN);
 console.log(c)
