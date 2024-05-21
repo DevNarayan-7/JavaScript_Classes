@@ -1,3 +1,4 @@
+/*
 const firstName = "Alien"
 const lastName = 'SpaceShip'
 
@@ -31,3 +32,16 @@ console.log(
     `The word "${word}" ${
         sentence.includes(word)? 'is' : 'is not'} in the sentence`
      )      
+*/
+
+
+// NUMBER
+
+const num = new Number(5.342534)
+console.log(num.toFixed(2));// adding precion upto 2 decimal
+
+const subscribers = 100000;
+console.log(subscribers.toLocaleString());//100,000 --output
+
+console.log(Math.floor(Math.random()*10))+1
+
