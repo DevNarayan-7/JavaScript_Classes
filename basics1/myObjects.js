@@ -37,3 +37,4 @@ console.log(Object.entries(user))
 
 console.log(Object.keywords);
 console.log(user.hasOwnProperty('tea'));
+
