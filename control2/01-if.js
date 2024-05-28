@@ -65,3 +65,15 @@ if(startInNumber == 1){
 }else {
     console.log("I don't know that rating !!!")
 }
+
+
+///login system
+
+let email = "aliee@google.com"
+
+if(email == "aliee@google.com"){
+    console.log("Please enter your password");
+}else{
+    console.log("Your email is not registered");
+    console.log("Please sign in with your email");
+}
